@@ -1,2 +1,4 @@
-# asterixxdev.github.io
-Project Showcase #1
+# AsterixDev
+
+Hello World!
+This is a site to showcase our projects.
